@@ -1,0 +1,4 @@
+*.o
+hello
+fork_example
+thread_example
